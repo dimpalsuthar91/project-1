@@ -1,0 +1,502 @@
+ticker,security,user_id,screen_name,twtr_name
+MMM,3M Company,378197959,3M,3M
+ABT,Abbott Laboratories,1934702336,AbbottGlobal,Abbott
+ABBV,AbbVie Inc.,531892451,abbvie,AbbVie
+ABMD,ABIOMED Inc,,,
+ACN,Accenture plc,10194682,Accenture,Accenture
+ATVI,Activision Blizzard,753670706311815169,ATVI_AB,Activision Blizzard
+ADBE,Adobe Systems Inc,63786611,Adobe,Adobe
+AMD,Advanced Micro Devices Inc,124658229,ConnectRemote,Advanced Micro Tech
+AAP,Advance Auto Parts,76762658,AdvanceAuto,Advance Auto Parts
+AES,AES Corp,2541746143,TheAESCorp,The AES Corporation
+AET,Aetna Inc,16188518,Aetna,Aetna
+AMG,Affiliated Managers Group Inc,2206920425,amgmusic_,AMG
+AFL,AFLAC Inc,551154824,pf_afl,Aflac Inc
+A,Agilent Technologies Inc,17278322,Agilent,Agilent Technologies
+APD,Air Products & Chemicals Inc,109634966,airproducts,Air Products
+AKAM,Akamai Technologies Inc,19622847,Akamai,Akamai Technologies
+ALK,Alaska Air Group Inc,13192972,AlaskaAir,Alaska Airlines
+ALB,Albemarle Corp,342316270,AlbemarleCorp,Albemarle Corp.
+ARE,Alexandria Real Estate Equities Inc,,,
+ALXN,Alexion Pharmaceuticals,,,
+ALGN,Align Technology,988456283287121920,AlignTechInc,Align Technology
+ALLE,Allegion,480738493,AllegionUS,Allegion US
+AGN,"Allergan, Plc",164787325,Allergan,Allergan plc
+ADS,Alliance Data Systems,133000328,E3Alliance,E3 Alliance
+LNT,Alliant Energy Corp,556874482,lnt4f8ec4477ea,Alliant Energy Corp
+ALL,Allstate Corp,3599926396,AllstateCan,Allstate Can Corp
+GOOGL,Alphabet Inc Class A,25995637,alec_petty,alphabet inc
+GOOG,Alphabet Inc Class C,25995637,alec_petty,alphabet inc
+MO,Altria Group Inc,556921726,mo4f8ed270614aa,Altria Group Inc
+AMZN,Amazon.com Inc.,20793816,amazon,Amazon.com
+AEE,Ameren Corp,55526996,AmerenCorp,Ameren Corporation
+AAL,American Airlines Group,22536055,AmericanAir,American Airlines
+AEP,American Electric Power,132213917,BayAreaElectric,American Electrical
+AXP,American Express Co,42712551,AmericanExpress,American Express
+AIG,"American International Group, Inc.",126118683,AIGinsurance,AIG
+AMT,American Tower Corp A,2998877622,the_englishouse,American Tower
+AWK,American Water Works Company Inc,25565709,amwater,American Water
+AMP,Ameriprise Financial,164011937,ameriprise,Ameriprise Financial
+ABC,AmerisourceBergen Corp,,,
+AME,AMETEK Inc.,256996215,AMETEKInc,AMETEK Inc.
+AMGN,Amgen Inc.,28436760,Amgen,Amgen
+APH,Amphenol Corp,1179932060,AmphenolACC,Amphenol CAN MilAero
+APC,Anadarko Petroleum Corp,859461997016088576,AnadarkoPetrol,Anadarko Petroleum
+ADI,"Analog Devices, Inc.",37722624,ADI_News,"Analog Devices, Inc."
+ANDV,Andeavor,1566547009,andeavor,Andeavor
+ANSS,ANSYS,33647963,ANSYS,ANSYS
+ANTM,Anthem Inc.,435302260,AnthemInc,"Anthem, Inc."
+AON,Aon plc,22152077,Aon_plc,Aon
+AOS,A.O. Smith Corp,523687787,ArtOfShades,AOS
+APA,Apache Corporation,57098362,ApacheCorp,Apache Corporation
+AIV,Apartment Investment & Management,,,
+AAPL,Apple Inc.,380749300,Apple,Apple
+AMAT,Applied Materials Inc.,412738314,Applied_VC,Applied Ventures
+APTV,Aptiv Plc,815759221,Aptiv,Aptiv
+ADM,Archer-Daniels-Midland Co,15064001,mctmidland,Midland Comm Theatre
+ARNC,Arconic Inc.,,,
+AJG,Arthur J. Gallagher & Co.,3301035016,The_Arthur_J,The Arthur J
+AIZ,Assurant Inc.,,,
+T,AT&T Inc.,14620190,ATT,AT&T
+ADSK,Autodesk Inc.,31957731,autodesk,Autodesk
+ADP,Automatic Data Processing,914155621,Automatic_Data,Automatic Data
+AZO,AutoZone Inc,107568252,Autozone__inc,Autozone
+AVY,Avery Dennison Corp,166042524,AveryDennison,Avery Dennison
+BHGE,"Baker Hughes, a GE Company",2237854550,BakerHughesJobs,Jobs at Baker Hughes
+BLL,Ball Corp,22986858,BallCorpHQ,Ball Corporation
+BAC,Bank of America Corp,204881628,BankofAmerica,Bank of America
+BK,The Bank of New York Mellon Corp.,,,
+BAX,Baxter International Inc.,46511103,baxter_intl,Baxter International
+BBT,BB&T Corporation,307781209,SMRT_Singapore,SMRT Corporation
+BDX,Becton Dickinson,135386048,bectondickinson,Becton Dickinson
+BRK.B,Berkshire Hathaway,1507441687,BHHSRealEstate,Berkshire HathawayHS
+BBY,Best Buy Co. Inc.,17475575,BestBuy,Best Buy
+BIIB,Biogen Inc.,155650832,biogen,Biogen
+BLK,BlackRock,23756134,blackrock,BlackRock
+HRB,Block H&R,10673252,HRBlock,H&R Block
+BA,Boeing Company,25103967,Boeing,The Boeing Company
+BKNG,Booking Holdings Inc,4705763776,BookingHoldings,Booking Holdings
+BWA,BorgWarner,2840393289,BorgWarner,BorgWarner
+BXP,Boston Properties,867455207776636928,bxpboston,Boston Properties
+BHF,Brighthouse Financial Inc,21751830,TheBHF,BHF
+BMY,Bristol-Myers Squibb,34010976,bmsnews,Bristol-Myers Squibb
+AVGO,Broadcom,338504881,Broadcom,Broadcom Inc.
+BR,Broadridge Financial Solutions,15069827,Broadridge,Broadridge
+BF.B,Brown-Forman Corp.,971948211115122693,BrownFormanCorp,Brown-Forman
+CHRW,C. H. Robinson Worldwide,116677010,CHRW_,CHARST*R
+CA,"CA, Inc.",14790085,CAinc,CA Technologies
+COG,Cabot Oil & Gas,317777055,CabotOG,Cabot Oil & Gas Corp
+CDNS,Cadence Design Systems,2756216461,cadence_designs,Cadence Design
+CPB,Campbell Soup,37008048,CampbellSoupCo,Campbell Soup Co
+COF,Capital One Financial,364477412,CapitalOne,Capital One
+CAH,Cardinal Health Inc.,556897234,cah4f8ecb2e0dc,Cardinal Health Inc
+KMX,Carmax Inc,550542900,CarmaxInc,CarmaxConsultingInc
+CCL,Carnival Corp.,2798188974,CarnivalPLC,Carnival Corporation
+CAT,Caterpillar Inc.,15101714,CaterpillarInc,Caterpillar Inc.
+CBOE,Cboe Global Markets,16827489,CBOE,Cboe
+CBRE,CBRE Group,34675715,CBRE,CBRE
+CBS,CBS Corp.,124289751,CBSHE,CBSHomeEntertainment
+CELG,Celgene Corp.,209190992,CelgeneCorp,CelgeneCorp
+CNC,Centene Corporation,80911769,SSHealth,Centene Corporation
+CNP,CenterPoint Energy,121181792,energyinsights,CenterPoint Energy
+CTL,CenturyLink Inc,,,
+CERN,Cerner,34710922,Cerner,Cerner
+CF,CF Industries Holdings Inc,48437937,CFIndustries,CF Industries
+SCHW,Charles Schwab Corporation,132703700,CharlesSchwab,Charles Schwab Corp
+CHTR,Charter Communications,121165704,CharterNewsroom,Charter News
+CVX,Chevron Corp.,21021891,Chevron,Chevron
+CMG,Chipotle Mexican Grill,141341662,ChipotleTweets,Chipotle
+CB,Chubb Limited,993360662888824832,chubb_singapore,Chubb Insurance Singapore Limited
+CHD,Church & Dwight,1149306498,ChurchDwightMex,Church & Dwight
+CI,CIGNA Corp.,,,
+XEC,Cimarex Energy,837663589158772736,Cimarex,Cimarex Energy Co.
+CINF,Cincinnati Financial,,,
+CTAS,Cintas Corporation,17908262,CintasCorp,Cintas Corporation
+CSCO,Cisco Systems,275497277,cisco_in,Cisco Systems India
+C,Citigroup Inc.,557100772,cgksw4f8f058f9,Citigroup Inc
+CFG,Citizens Financial Group,210953833,CitizensBank,Citizens Bank
+CTXS,Citrix Systems,12492842,citrix,Citrix
+CLX,The Clorox Company,511068440,CloroxCo,The Clorox Company
+CME,CME Group Inc.,15935591,CMEGroup,CMEGroup
+CMS,CMS Energy,2163320629,CMSConstruction,CMS Construction
+KO,Coca-Cola Company(The),23482357,CocaColaCo,The Coca-Cola Co.
+CTSH,Cognizant Technology Solutions,69687111,Cognizant,Cognizant
+CL,Colgate-Palmolive,128668358,CP_News,Colgate-Palmolive Co
+CMCSA,Comcast Corp.,846415933522374656,Comcast_Corp,XfinityTV_Comcast
+CMA,Comerica Inc.,95662159,CdnMarketing,CMA
+CAG,Conagra Brands,92357890,ConagraBrands,Conagra Brands
+CXO,Concho Resources,,,
+COP,ConocoPhillips,23449774,conocophillips,ConocoPhillips
+ED,Consolidated Edison,1973390995,Con_Edi_USA_,Consolidated Edison
+STZ,Constellation Brands,898196334540402688,cbrands,Constellation Brands
+COO,The Cooper Companies,16117029,RyanMaue,Ryan | weather.us
+GLW,Corning Inc.,65457124,Corning,Corning Incorporated
+COST,Costco Wholesale Corp.,78752936,CostcoWine,Costco Wine
+COTY,"Coty, Inc",456525263,COTYInc,Coty Inc.
+CCI,Crown Castle International Corp.,2314333092,CrownCastle,Crown Castle
+CSX,CSX Corp.,15724503,CSX,CSX
+CMI,Cummins Inc.,87299367,Cummins,Cummins Inc.
+CVS,CVS Health,122473388,CVSHealth,CVS Health
+DHI,D. R. Horton,113137199,DRHorton,D.R. Horton
+DRI,Darden Restaurants,372854615,darden,Darden Restaurants
+DVA,DaVita Inc.,116658451,davita_india,DaVita India
+DE,Deere & Co.,18726666,JohnDeere,John Deere
+DAL,Delta Air Lines Inc.,5920532,Delta,Delta
+XRAY,Dentsply Sirona,132189140,DentsplySirona,Dentsply Sirona
+DVN,Devon Energy Corp.,21628891,DevonEnergy,Devon Energy
+DLR,Digital Realty Trust Inc,40245544,digitalrealty,Digital Realty
+DFS,Discover Financial Services,16147150,Discover,Discover
+DISCA,Discovery Inc. Class A,22061951,DiscoveryIncTV,Discovery Inc
+DISCK,Discovery Inc. Class C,22061951,DiscoveryIncTV,Discovery Inc
+DISH,Dish Network,17170147,dish,DISH
+DG,Dollar General,84087294,DollarGeneral,Dollar General
+DLTR,Dollar Tree,94558801,DollarTree,Dollar Tree
+D,Dominion Energy,83681993,DominionEnergy,Dominion Energy
+DOV,Dover Corp.,602108840,DoverCorp,Dover
+DWDP,DowDuPont,740233567842795520,DowDuPontCo,DowDuPont
+DPS,Dr Pepper Snapple Group,23196059,DrPepperSnapple,Dr Pepper Snapple
+DTE,DTE Energy Co.,56693003,DTE_Energy,DTE Energy
+DRE,Duke Realty Corp,557015406,dre4f8ed649cd7,Duke Realty Corp
+DUK,Duke Energy,81192849,DukeEnergy,Duke Energy
+DXC,DXC Technology,599689553,DXCTechnology,DXC Technology
+ETFC,E*Trade,32570672,etrade,E*TRADE
+EMN,Eastman Chemical,76979060,EastmanChemCo,Eastman Chemical Co.
+ETN,Eaton Corporation,19032584,eatoncorp,Eaton
+EBAY,eBay Inc.,19709040,eBay,eBay
+ECL,Ecolab Inc.,135249560,EcolabEquipCare,Ecolab Inc
+EIX,Edison Int'l,1005071501496868864,IntEdison,Edison INT
+EW,Edwards Lifesciences,3040464564,EdwardsLifesci,Edwards Lifesciences
+EA,Electronic Arts,15234657,EA,Electronic Arts
+EMR,Emerson Electric Company,30079624,EMR_Automation,Emerson Automation Solutions
+ETR,Entergy Corp.,,,
+EVHC,Envision Healthcare,989531049356034049,EnvisionLeads,Envision Healthcare
+EOG,EOG Resources,557087138,eog4f8f0206406,EOG Resources
+EQT,EQT Corporation,841042960816963584,EQT_Corporation,EQT
+EFX,Equifax Inc.,268020193,Equifax,Equifax Inc.
+EQIX,Equinix,29336816,Equinix,"Equinix, Inc."
+EQR,Equity Residential,351035923,EquityRes,Equity Residential
+ESS,"Essex Property Trust, Inc.",25462882,EssexProperties,Essex Property Trust
+EL,Estee Lauder Cos.,135492582,EsteeLauderTR,Estee Lauder Türkiye
+EVRG,Evergy,707605628110372865,evergyfitness,Evergy
+ES,Eversource Energy,19933146,EversourceCorp,Eversource Energy
+RE,Everest Re Group Ltd.,97250755,EverestRE,Everest Realty
+EXC,Exelon Corp.,712406994,exelon_corp,exelon
+EXPE,Expedia Inc.,126208667,Expedia_Japan,エクスペディア(Expedia)
+EXPD,Expeditors International,867407137,expdupdates,Expeditors Updates
+ESRX,Express Scripts,42867610,ExpressScripts,Express Scripts
+EXR,Extra Space Storage,17379892,extraspace,Extra Space Storage
+XOM,Exxon Mobil Corp.,36665547,exxonmobil,ExxonMobil
+FFIV,F5 Networks,15136500,F5Networks,F5 Networks
+FB,"Facebook, Inc.",2425151,facebook,Facebook
+FAST,Fastenal Co,76837514,FastenalRacing,Fastenal Racing
+FRT,Federal Realty Investment Trust,76672941,FederalRealty,Federal Realty
+FDX,FedEx Corporation,134887156,FedEx,FedEx
+FIS,Fidelity National Information Services,1475703457,CLRFNT_Dallas,Fidelity National
+FITB,Fifth Third Bancorp,231213589,FifthThird,Fifth Third Bank
+FE,FirstEnergy Corp,59839012,firstenergycorp,FirstEnergy Corp.
+FISV,Fiserv Inc,3307768043,atspeedoflife,Fiserv Inc.
+FLT,FleetCor Technologies Inc,,,
+FLIR,FLIR Systems,413212483,flir,FLIR
+FLS,Flowserve Corporation,,,
+FLR,Fluor Corp.,182548490,FluorCorp,Fluor Corporation
+FMC,FMC Corporation,733462130,FMCCorp,FMC Corporation
+FL,Foot Locker Inc,557119309,fl4f8f0bb81a071,Foot Locker Inc
+F,Ford Motor,15676492,Ford,Ford Motor Company
+FTV,Fortive Corp,759118866828013569,FortiveCorp,Fortive Corporation
+FBHS,Fortune Brands Home & Security,384573981,FBHS_News,Fortune Brands H&S
+BEN,Franklin Resources,204837253,franklinswcd,Franklin SWCD
+FCX,Freeport-McMoRan Inc.,951524470287613952,FCXCopper,Freeport-McMoRan Inc.
+GPS,Gap Inc.,18462157,Gap,Gap
+GRMN,Garmin Ltd.,15324722,Garmin,Garmin
+IT,Gartner Inc,15231287,Gartner_inc,Gartner
+GD,General Dynamics,807586682,GDMS,General Dynamics Mission Systems
+GE,General Electric,267399199,generalelectric,General Electric
+GGP,General Growth Properties Inc.,,,
+GIS,General Mills,280557152,GeneralMills,General Mills
+GM,General Motors,10850192,GM,General Motors
+GPC,Genuine Parts,951409081058713605,MobisGP,Mobis Genuine Parts
+GILD,Gilead Sciences,309728693,GileadSciences,Gilead Sciences
+GPN,Global Payments Inc.,478912243,GlobalPayInc,Global Payments Inc.
+GS,Goldman Sachs Group,253167239,GoldmanSachs,Goldman Sachs
+GT,Goodyear Tire & Rubber,1578583062,goodyear,Goodyear
+GWW,Grainger (W.W.) Inc.,155541003,grainger,Grainger
+HAL,Halliburton Co.,288290125,Halliburton,Halliburton
+HBI,Hanesbrands Inc,763107598451154945,HanesBrands,Hanesbrands Inc.
+HOG,Harley-Davidson,17169239,harleydavidson,Harley-Davidson
+HRS,Harris Corporation,87228706,HarrisCorp,Harris Corporation
+HIG,Hartford Financial Svc.Gp.,557148119,hig4f8f169b472,Hartford Financial
+HAS,Hasbro Inc.,78482616,HasbroNews,Hasbro
+HCA,HCA Holdings,378714825,DMEHCAHoldings,DME HCA Holdings
+HCP,HCP Inc.,75568868,HBbroker,Broker at HCP INc.
+HSIC,Henry Schein,17610945,HenrySchein,Henry Schein
+HSY,The Hershey Company,3307336523,HersheyCompany,The Hershey Company
+HES,Hess Corporation,44996346,HessCorporation,Hess Corporation
+HPE,Hewlett Packard Enterprise,207495308,HPE,HPE
+HLT,Hilton WorldwideHoldings Inc,,,
+HFC,HollyFrontier Corp,,,
+HOLX,Hologic,30007936,Hologic,Hologic
+HD,Home Depot,14791918,HomeDepot,The Home Depot
+HON,Honeywell Int'l Inc.,128178422,MFM_Honeywell,Honeywell Int
+HRL,Hormel Foods Corp.,12494562,HormelFoods,Hormel Foods
+HST,Host Hotels & Resorts,91664288,PacificaHost,Pacifica Host Hotels
+HPQ,HP Inc.,17193794,HP,HP
+HUM,Humana Inc.,24160942,Humana,Humana
+HBAN,Huntington Bancshares,78067917,Huntington_Bank,Huntington Bank
+HII,Huntington Ingalls Industries,247416314,HIIndustries,Huntington Ingalls Industries
+IDXX,IDEXX Laboratories,557150503,idxx4f8f167dc7,Idexx Laboratories
+INFO,IHS Markit Ltd.,65739179,IHSMarkit,IHS Markit
+ITW,Illinois Tool Works,101844704,ITWInc,Illinois Tool Works
+ILMN,Illumina Inc,46145761,illumina,Illumina
+IR,Ingersoll-Rand PLC,,,
+INTC,Intel Corp.,262687290,ArmadaCorpIntel,Armada Corp. Intel.
+ICE,Intercontinental Exchange,39384517,ICEgov,ICE
+IBM,International Business Machines,18994444,IBM,IBM
+INCY,Incyte,3911174913,Incyte,Incyte
+IP,International Paper,1454477221,IntlPaperCo,International Paper
+IPG,Interpublic Group,378077984,InterpublicIPG,Interpublic Group
+IFF,Intl Flavors & Fragrances,2990348275,IFModeling,INTL FLAVORS
+INTU,Intuit Inc.,76424904,IntuitInc,Intuit Inc.
+ISRG,Intuitive Surgical Inc.,602132594,IntuitiveSurg,Intuitive Surgical
+IVZ,Invesco Ltd.,436817099,InvescoLtd,Invesco Ltd
+IPGP,IPG Photonics Corp.,893144049217134593,ipgphotonics,IPG Photonics
+IQV,IQVIA Holdings Inc.,,,
+IRM,Iron Mountain Incorporated,21429357,IronMountain,Iron Mountain
+JEC,Jacobs Engineering Group,1280966449,JacobsEngineers,Jacobs Engineering
+JBHT,J. B. Hunt Transport Services,2528862373,jbhunt360,J.B. Hunt 360
+JEF,Jefferies Financial Group,989146968168566784,JefferiesFinGrp,Jefferies Financial
+SJM,JM Smucker,153963591,trukr2,JM Smucker
+JNJ,Johnson & Johnson,20457806,JNJNews,Johnson & Johnson
+JCI,Johnson Controls International,1280469980,johnsoncontrols,Johnson Controls
+JPM,JPMorgan Chase & Co.,,,
+JNPR,Juniper Networks,14775374,JuniperNetworks,Juniper Networks
+KSU,Kansas City Southern,69656151,Scrapacat,Kansas City Southern
+K,Kellogg Co.,20182642,KelloggSchool,Kellogg School
+KEY,KeyCorp,2227497746,KeycorpGroup,Keycorp Group
+KMB,Kimberly-Clark,151233724,KCCorp,Kimberly-Clark Corp.
+KIM,Kimco Realty,122393786,kimcorealty,Kimco
+KMI,Kinder Morgan,103085208,Kinder_Morgan,Kinder Morgan
+KLAC,KLA-Tencor Corp.,715789960125812736,KlicKlac_,KlicKlac
+KSS,Kohl's Corp.,,,
+KHC,Kraft Heinz Co,114816952,KraftHeinzCo,Kraft Heinz Company
+KR,Kroger Co.,36359791,kroger,Kroger
+LB,L Brands Inc.,60487132,L2_Digital,L2 Inc
+LLL,L-3 Communications Holdings,49795272,L3Technologies,L3 Technologies
+LH,Laboratory Corp. of America Holding,,,
+LRCX,Lam Research,16686919,LamResearch,Lam Research
+LEG,Leggett & Platt,54906242,LeggettSleep,Leggett & Platt
+LEN,Lennar Corp.,19079746,LennarCorp,Lennar Corp
+LLY,Lilly (Eli) & Co.,172496840,LillyPad,Eli Lilly and Company
+LNC,Lincoln National,196898371,LincolnHomeNPS,Lincoln Home NHS
+LKQ,LKQ Corporation,165771313,LKQCorp,LKQ Corporation
+LMT,Lockheed Martin Corp.,42871498,LockheedMartin,Lockheed Martin
+L,Loews Corp.,437742345,LCareers,Loews Corp. Careers
+LOW,Lowe's Cos.,111708694,martin_lowe,Martin O'Lowery
+LYB,LyondellBasell,135221263,LyondellBasell,LyondellBasell
+MTB,M&T Bank Corp.,82382893,MandT_Bank,M&T Bank
+MAC,Macerich,21668483,Macerich,Macerich
+M,Macy's Inc.,50687788,Macys,Macy's
+MRO,Marathon Oil Corp.,15766628,MarathonOil,Marathon Oil
+MPC,Marathon Petroleum,320962473,MarathonPetroCo,Marathon Petroleum
+MAR,Marriott Int'l.,2413032013,MarriottGSARD,Marriott Int GSA RD
+MMC,Marsh & McLennan,2904112697,MMC_Global,Marsh & McLennan
+MLM,Martin Marietta Materials,180912714,MartinMarietta,Martin Marietta
+MAS,Masco Corp.,224759992,MascoCorp,Masco Corporation
+MA,Mastercard Inc.,,,
+MAT,Mattel Inc.,98458823,Mattel,Mattel
+MKC,McCormick & Co.,90048229,KathrynrMcc,Kathryn Mccormick
+MCD,McDonald's Corp.,111679943,McDonaldsCorp,McDonald's
+MCK,McKesson Corp.,96005465,mynameismck,MCK
+MDT,Medtronic plc,17861851,MDT_Diabetes,Medtronic Diabetes
+MRK,Merck & Co.,35961145,Merck,Merck
+MET,MetLife Inc.,,,
+MTD,Mettler Toledo,532952294,mettlertoledo,METTLER TOLEDO
+MGM,MGM Resorts International,2216675940,MGMResortsIntl,MGM Resorts
+KORS,Michael Kors Holdings,153474021,MichaelKors,Michael Kors
+MCHP,Microchip Technology,16351266,MicrochipTech,MicrochipTech
+MU,Micron Technology,19037711,MicronTech,MicronTech
+MSFT,Microsoft Corp.,74286565,Microsoft,Microsoft
+MAA,Mid-America Apartments,274535875,MAA_Charity,Midlands Air Ambulance Charity
+MHK,Mohawk Industries,30042497,mhkgreenworks,Mohawk Industries
+TAP,Molson Coors Brewing Company,81882285,MolsonCoors,Molson Coors
+MDLZ,Mondelez International,,,
+MNST,Monster Beverage,557135915,mnst4f8f126e56,Monster Beverage Co
+MCO,Moody's Corp,256648662,MoodysCorp,Moody's Corporation
+MS,Morgan Stanley,426159377,MorganStanley,Morgan Stanley
+MOS,The Mosaic Company,27674257,MosaicCompany,The Mosaic Company
+MSI,Motorola Solutions Inc.,195702287,MotoSolutions,Motorola Solutions
+MSCI,MSCI Inc,59155308,MSCI_Inc,MSCI
+MYL,Mylan N.V.,293754638,MylanNews,Mylan
+NDAQ,"Nasdaq, Inc.",,,
+NOV,National Oilwell Varco Inc.,,,
+NKTR,Nektar Therapeutics,394817348,NektarNews,Nektar Therapeutics
+NTAP,NetApp,15897465,NetApp,NetApp
+NFLX,Netflix Inc.,16573941,netflix,Netflix US
+NWL,Newell Brands,121580581,newell_brands,Newell Brands
+NFX,Newfield Exploration Co,620029156,Newfield3,Newfield Exploration
+NEM,Newmont Mining Corporation,437789543,Newmont,Newmont Mining
+NWSA,News Corp. Class A,1516521758,newscorp,News Corp
+NWS,News Corp. Class B,1516521758,newscorp,News Corp
+NEE,NextEra Energy,87246148,NextEraEnergyR,NextEra Energy Res
+NLSN,Nielsen Holdings,15996830,Nielsen,Nielsen
+NKE,Nike,415859364,Nike,Nike
+NI,NiSource Inc.,2329361226,NiSourceInc,NiSource
+NBL,Noble Energy Inc,2451747450,NobleColorado,Noble Energy
+JWN,Nordstrom,15162193,Nordstrom,Nordstrom
+NSC,Norfolk Southern Corp.,66472414,nscorp,Norfolk Southern
+NTRS,Northern Trust Corp.,308506248,NorthernTrust,Northern Trust
+NOC,Northrop Grumman Corp.,15840909,northropgrumman,Northrop Grumman
+NCLH,Norwegian Cruise Line,17045115,CruiseNorwegian,Cruise Norwegian
+NRG,NRG Energy,32880255,nrgenergy,"NRG Energy, Inc."
+NUE,Nucor Corp.,361259570,NucorCorp,Nucor
+NVDA,Nvidia Corporation,61559439,nvidia,NVIDIA
+ORLY,O'Reilly Automotive,26635211,TimothyCOReilly,Timothy O'Reilly
+OXY,Occidental Petroleum,42641711,OXY_Petroleum,Occidental Petroleum
+OMC,Omnicom Group,1666100959,Omnicom,Omnicom Group
+OKE,ONEOK,64834590,ONEOK,ONEOK
+ORCL,Oracle Corp.,68979476,OracleCorpPT,Oracle Portugal
+PCAR,PACCAR Inc.,,,
+PKG,Packaging Corporation of America,2645632766,packagingcorp,Packaging Corp
+PH,Parker-Hannifin,112423234,ParkerHannifin,Parker Hannifin
+PAYX,Paychex Inc.,20672675,PAYX,Paychex
+PYPL,PayPal,30018058,PayPal,PayPal
+PNR,Pentair plc,,,
+PBCT,People's United Financial,,,
+PEP,PepsiCo Inc.,21346619,PepsiCo,PepsiCo
+PKI,PerkinElmer,128564900,PerkinElmer,PerkinElmer
+PRGO,Perrigo,209530008,TwistedJ420NM,Jason Perrigo
+PFE,Pfizer Inc.,56488059,pfizer,Pfizer Inc.
+PCG,PG&E Corp.,31496613,PGE4Me,PG&E
+PM,Philip Morris International,914311278,InsidePMI,Philip Morris Intl
+PSX,Phillips 66,405085229,Phillips66Co,Phillips 66
+PNW,Pinnacle West Capital,190407288,PinWestHomes,Pinnacle West Homes
+PXD,Pioneer Natural Resources,979244048,PXDtweets,Pioneer
+PNC,PNC Financial Services,96140805,PNCNews,PNC News
+RL,Polo Ralph Lauren Corp.,607773915,marcodiiusto,Marco Polo Ralph
+PPG,PPG Industries,784002792226754560,ppgindustries,PPG Industries
+PPL,PPL Corp.,424435659,PPLCorp,PPL Corporation
+PX,Praxair Inc.,557190069,PraxairInc,"Praxair, Inc."
+PFG,Principal Financial Group,164365554,principal,Principal®
+PG,Procter & Gamble,,,
+PGR,Progressive Corp.,479395432,Corp_PTS,Progressive
+PLD,Prologis,108336372,Prologis,Prologis
+PRU,Prudential Financial,1194947442,Prudential,Prudential
+PEG,Public Serv. Enterprise Inc.,2432486112,LansingPubServ,Public Service Dept.
+PSA,Public Storage,25362591,PublicStorage,Public Storage
+PHM,Pulte Homes Inc.,16630436,PulteHomes,Pulte Homes
+PVH,PVH Corp.,19691313,PVHSfoundation,PVH/MCR Foundation
+QRVO,Qorvo,2792823936,QorvoInc,"Qorvo, Inc."
+PWR,Quanta Services Inc.,2478412250,Quanta_Services,Quanta Services
+QCOM,QUALCOMM Inc.,84623395,Qualcomm,Qualcomm
+DGX,Quest Diagnostics,76481951,QuestDX,Quest Diagnostics
+RJF,Raymond James Financial Inc.,17981602,RaymondJames,Raymond James
+RTN,Raytheon Co.,82966237,face_CoNTRoL,Jaryd Raytheon
+O,Realty Income Corporation,475255646,RealtyIncome,Realty Income
+RHT,Red Hat Inc.,14627400,RedHat,"Red Hat, Inc."
+REG,Regency Centers Corporation,105159738,regencycenters,Regency Centers
+REGN,Regeneron,23077762,Regeneron,Regeneron
+RF,Regions Financial Corp.,156742516,RegionsFI,Regions Financial
+RSG,Republic Services Inc,236230377,RepublicService,Republic Services
+RMD,ResMed,522734100,ResMed,ResMed
+RHI,Robert Half International,16637298,roberthalf,Robert Half
+ROK,Rockwell Automation Inc.,44627268,ROKAutomation,Rockwell Automation
+COL,Rockwell Collins,14163275,RockwellCollins,Rockwell Collins
+ROP,Roper Technologies,582765825,SteveRop,stephen roper
+ROST,Ross Stores,4261659374,Ross_Stores,Ross Dress For Less
+RCL,Royal Caribbean Cruises Ltd,36144455,RoyalCaribbean,Royal Caribbean
+CRM,Salesforce.com,33612317,salesforce,Salesforce
+SBAC,SBA Communications,780413378493751297,SBAMonarch,SBA Communications
+SCG,SCANA Corp,,,
+SLB,Schlumberger Ltd.,36910829,SIC_Ltd,r schlumberger
+STX,Seagate Technology,752749131953639424,SeagateANZ,SeagateANZ
+SEE,Sealed Air,59841697,Sealed_Air,Sealed Air
+SRE,Sempra Energy,20637451,SempraEnergy,Sempra Energy
+SHW,Sherwin-Williams,111372861,SherwinWilliams,Sherwin-Williams
+SPG,Simon Property Group Inc,344035684,ShopSimon,SIMON
+SWKS,Skyworks Solutions,50125539,skyworksinc,Skyworks Solutions
+SLG,SL Green Realty,607778163,SLGreen,SL Green
+SNA,Snap-On Inc.,613361415,SnapPeaInc,SnapPea
+SO,Southern Co.,164070785,Lauren_Southern,Lauren Southern
+LUV,Southwest Airlines,7212562,SouthwestAir,Southwest Airlines
+SPGI,"S&P Global, Inc.",110522065,SPGlobal,S&P Global
+SWK,Stanley Black & Decker,117789943,StanleyBlkDeckr,StanleyBlack&Decker
+SBUX,Starbucks Corp.,30973,Starbucks,Starbucks Coffee
+STT,State Street Corp.,262869950,StateStreetCorp,StateStreet
+SRCL,Stericycle Inc,423476395,Stericycle_Inc,Stericycle Inc
+SYK,Stryker Corp.,834969475522805760,Stryker_Corp,Stryker Aerospace
+STI,SunTrust Banks,556912733,sti4f8ed092242,SunTrust Banks Inc
+SIVB,SVB Financial,,,
+SYMC,Symantec Corp.,557115059,symc4f8f0b56f0,Symantec Corp
+SYF,Synchrony Financial,388325697,GEMoneyUS,Synchrony Financial
+SNPS,Synopsys Inc.,,,
+SYY,Sysco Corp.,823523768,Sysco,Sysco Corporation
+TROW,T. Rowe Price Group,18639872,TRowePrice,T. Rowe Price
+TTWO,Take-Two Interactive,18506744,taketwo,Take Two
+TPR,"Tapestry, Inc.",48201110,Spursuasion,Tapestry Equine Products Inc.
+TGT,Target Corp.,62612760,TARGETArea,Target Area DevCorp
+TEL,TE Connectivity Ltd.,29162590,TEConnectivity,TE Connectivity
+FTI,TechnipFMC,151441314,TechnipFMC,TechnipFMC
+TXN,Texas Instruments,13613292,TXInstruments,Texas Instruments
+TXT,Textron Inc.,1491310134,Textron,Textron Inc.
+TMO,Thermo Fisher Scientific,62862144,thermofisher,Thermo Fisher
+TIF,Tiffany & Co.,90774609,TiffanyAndCo,Tiffany & Co.
+TWTR,"Twitter, Inc.",783214,Twitter,Twitter
+TJX,TJX Companies Inc.,21406663,TJX_College,The TJX Companies
+TMK,Torchmark Corp.,4764912686,TorchmarkCorp,Torchmark Corp
+TSS,Total System Services,108979674,tsshvac,Total System Services
+TSCO,Tractor Supply Company,741195889,TractorSupply,Tractor Supply
+TDG,TransDigm Group,,,
+TRV,The Travelers Companies Inc.,815069540904210432,TheTravelersVGM,The Travelers VGM
+TRIP,TripAdvisor,16365636,TripAdvisor,TripAdvisor
+FOXA,Twenty-First Century Fox Class A,1023896576,21stCH,Twenty First Century
+FOX,Twenty-First Century Fox Class B,1023896576,21stCH,Twenty First Century
+TSN,Tyson Foods,15836048,TysonFoods,Tyson Foods
+UDR,UDR Inc,939779820916846592,GraminUdr,Udr_gramin_inc
+ULTA,Ulta Beauty,28134825,ultabeauty,Ulta Beauty
+USB,U.S. Bancorp,15577098,usbank,U.S. Bank
+UAA,Under Armour Class A,23114836,UnderArmour,Under Armour
+UA,Under Armour Class C,23114836,UnderArmour,Under Armour
+UNP,Union Pacific,17629628,UnionPacific,Union Pacific
+UAL,United Continental Holdings,475811393,UnitedCairlines,United Continental
+UNH,United Health Group Inc.,917104380,UnitedHealthGrp,UnitedHealth Group
+UPS,United Parcel Service,982849970859585536,Robertw48708642,United Parcel Service
+URI,"United Rentals, Inc.",41848888,United_Rentals,United Rentals
+UTX,United Technologies,6717192,UTC,United Technologies
+UHS,"Universal Health Services, Inc.",2196351403,UniversalHUSA,Universal Health USA
+UNM,Unum Group,22657201,unumrecruit,Unum Group Staffing
+VFC,V.F. Corp.,326236278,thalapathyVFC,Vijay Fans Club™ ‏
+VLO,Valero Energy,846805558812463106,ValeroEnergy,Valero Energy
+VAR,Varian Medical Systems,4446747389,varianuk,Varian Medical UK
+VTR,Ventas Inc,1137355399,hyperventasinc,Hyper Ventas Inc
+VRSN,Verisign Inc.,19775248,VERISIGN,VERISIGN
+VRSK,Verisk Analytics,25161572,Verisk,Verisk
+VZ,Verizon Communications,59889953,verizon,Verizon
+VRTX,Vertex Pharmaceuticals Inc,17542775,VertexPharma,Vertex
+VIAB,Viacom Inc.,19034788,Viacom,Viacom
+V,Visa Inc.,551373363,Visa,Visa
+VNO,Vornado Realty Trust,,,
+VMC,Vulcan Materials,2746438068,UABSuccess,Vulcan Materials ASC
+WMT,Wal-Mart Stores,17137891,Walmart,Walmart
+WBA,Walgreens Boots Alliance,46177695,Walgreens,Walgreens
+DIS,The Walt Disney Company,398282459,Walt Disney Company
+WM,Waste Management Inc.,17634248,WasteManagement,Waste Management
+WAT,Waters Corporation,56758053,WatersCorp,Waters Corporation
+WEC,Wec Energy Group Inc,2581056602,WECEnergyGroup,WEC Energy Group
+WFC,Wells Fargo,1178011,WellsFargo,Wells Fargo
+WELL,Welltower Inc.,,,
+WDC,Western Digital,827296225955180544,westerndigital,Western Digital
+WU,Western Union Co,30366928,WesternUnion,Western Union
+WRK,WestRock Company,189176466,WestRock,WestRock
+WY,Weyerhaeuser Corp.,,,
+WHR,Whirlpool Corp.,17288348,WhirlpoolCorp,Whirlpool Corporation
+WMB,Williams Cos.,3751748422,waynekeithjr,Wayne K. Williams
+WLTW,Willis Towers Watson,38397550,WTWrisk,Willis Towers Watson
+WYNN,Wynn Resorts Ltd,1703070798,WynnResortsPR,Wynn Resorts PR
+XEL,Xcel Energy Inc,16875752,XcelEnergyCtr,Xcel Energy Center
+XRX,Xerox Corp.,15991258,Xerox,Xerox
+XLNX,Xilinx Inc,38303040,XilinxInc,Xilinx
+XL,XL Group,4903377860,XLSPORTSNFL,XL Sports Group
+XYL,Xylem Inc.,328818263,XylemInc,Xylem Inc.
+YUM,Yum! Brands Inc,8845592,yumbrands,Yum! Brands
+ZBH,Zimmer Biomet Holdings,258447339,zimmerbiomet,Zimmer Biomet
+ZION,Zions Bancorp,2532878582,ZionSchoolhouse,ZionSchoolhouse
+ZTS,Zoetis,572929741,Zoetis,Zoetis
